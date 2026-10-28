@@ -1,4 +1,4 @@
-# Components (confirmed)
+# Components 
 
 | Part | Qty | Notes |
 |---|---|---|
@@ -9,4 +9,4 @@
 | Blue LED 5mm | 5 | ~14 mA each |
 | 4-pin RGB LED | 2 | Type (anode/cathode) untested |
 | 5 V DC adapter | 1 | 5 A output, polarity to confirm |
-| IRF520 MOSFET | 1 | Not logic-level, not used in this project |
+
