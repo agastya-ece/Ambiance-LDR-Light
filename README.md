@@ -1,5 +1,4 @@
 # Ambiance-LDR-Light
-# Mood Night Light
 
 ![LDR and brightness graph](docs/ldr_plot.png)
 
